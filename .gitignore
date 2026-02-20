@@ -17,3 +17,8 @@ Objects/
 
 # VS Code 配置文件
 .vscode/
+
+# Keil 用户配置和视图文件
+*.uvguix.*
+*.uvoptx
+*.uvprojx.user
