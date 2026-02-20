@@ -1,0 +1,19 @@
+# Keil 编译产生的临时文件
+*.o
+*.d
+*.crf
+*.htm
+*.dep
+*.build_log.htm
+*.lnp
+*.axf
+*.sct
+*.map
+*.lst
+*.obj
+# 这里的 List 和 Obj 是 Keil 默认的输出文件夹
+Listings/
+Objects/
+
+# VS Code 配置文件
+.vscode/
