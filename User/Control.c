@@ -209,10 +209,10 @@ void Do_Remote_Task(void)
         Backward(15);
         break;
     case 3: // ÓÒ
-        Goward(20,-20);
+        Goward(30,-30);
         break;
     case 4: // ×ó
-        Goward(-20,20);
+        Goward(-30,30);
         break;
     case 5: // Í£Ö¹
         Stop();
